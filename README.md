@@ -1,1 +1,0 @@
-# System-Design-Interview-Guide
